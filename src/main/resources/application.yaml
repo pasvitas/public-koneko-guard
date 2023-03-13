@@ -1,0 +1,14 @@
+server:
+  port: 8090
+
+token:
+activity: v0.1 | Следит за нарушителями
+
+bot:
+  token:
+  prefix: !
+  version: 0.1
+  #playing, streaming, watching, listening
+  activityType: Playing
+  activityDetails: Смотрит за нарушителями
+

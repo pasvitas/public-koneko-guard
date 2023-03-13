@@ -1,0 +1,17 @@
+bot:
+  token: 123
+
+logging:
+  level:
+    ru.pasvitas.discordbots.konekoguard: DEBUG
+
+spring:
+  data:
+    mongodb:
+      host: localhost
+      username: root
+      password: root
+      port: 5432
+      database: konekoguard
+      authentication-database: admin
+#      username:
